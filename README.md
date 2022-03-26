@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winner3000
+- 👋 Hi, I’m @divij_gogia
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning JS
 - Hey guy's let's find the missing ";" together, join this discord server to find the bugs and clear ur query https://discord.gg/NdAt3agn
